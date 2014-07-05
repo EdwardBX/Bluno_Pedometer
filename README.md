@@ -1,4 +1,4 @@
 bluno_pedometer
 ===============
 
-use a blunt to create a pedometer
+use a bluno to create a pedometer
