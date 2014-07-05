@@ -1,7 +1,7 @@
 #include <FreeSixIMU.h>
 #include <FIMU_ADXL345.h>
 #include <FIMU_ITG3200.h>
- #include <Wire.h>
+#include <Wire.h>
 
 #define FILTER_N 12 
 FreeSixIMU sixDOF = FreeSixIMU();
