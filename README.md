@@ -1,4 +1,5 @@
-bluno_pedometer
+Bluno_Pedometer
 ===============
 
-use a bluno to create a pedometer
+
+Using a Bluno(Arduino Uno) to create a pedometer
