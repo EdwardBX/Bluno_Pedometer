@@ -5,4 +5,4 @@
 * 6 Dof Shield
 
 ###TO DO
-to use [KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) and make more precise results.
+This project should use [KalmanFilter](https://github.com/TKJElectronics/KalmanFilter) to make more precise results.
